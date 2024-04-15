@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year computer science student at the Faculty of Computer and Information Science at Ain Shams University. Additionally, I'm currently in the ALX program, specializing in backend development
+I am a third-year computer science student at the Faculty of Computer and Information Science at Ain Shams University. Additionally, ALXSWE Graduated
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedmubarak.hsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhsin) 
